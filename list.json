@@ -1,0 +1,25 @@
+{
+  "name": "DeltaSwap Token List",
+  "timestamp": "2024-04-16T00:00:00.100Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://metachain.biz/img/logo.png",
+  "keywords": [
+    "DeltaSwap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "MetaChain",
+      "address": "0x8a2884AF0716D27E2036F80fcF4B95B4A4632775",
+      "symbol": "wMETA",
+      "decimals": 18,
+      "chainId": 177,
+      "logoURI": "https://metachain.biz/img/logo.png"
+    }
+  ]
+}
